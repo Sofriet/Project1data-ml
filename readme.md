@@ -16,7 +16,7 @@ The final project is contained within the main folder of the repository :
 
 The **draft** folder has draft codes used for the part g (with real data) 
 
-The **plpts** folder contains multiple plots used to write the report
+The **plots** folder contains multiple plots used to write the report
 
 Thank you for the teaching team for helping us in this project :
 
